@@ -29,3 +29,7 @@ This dashboard provides a comprehensive visualization of sales data for a coffee
 
 The dashboard empowers stakeholders to swiftly evaluate business performance, pinpoint bestselling items, and optimize resource allocation. It supports strategic decision-making by unveiling consumer preference trends and highlighting areas for operational enhancement.
 
+![image](https://github.com/Sarahvalwork/Coffe-Shop-Sales-/assets/157971182/a5dbf037-15b3-4359-8939-1896e475732f)
+
+
+
